@@ -1,5 +1,5 @@
 ## AZURUNE LICENSE
-Version 1.0.1 || Last Updated: September 2025
+*Version 1.0.1 || Last Updated: September 2025*
 
 ### All Rights Reserved. Copyright (c) 2025 Azurune
 
