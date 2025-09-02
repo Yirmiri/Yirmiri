@@ -31,7 +31,7 @@ modified for an addon's needs without any required credit however it is greatly 
 original author of assets when possible.
 
 
-### - Definition of an "Addon"
+### Definition of an "Addon"
 For the purposes of this license, an "addon" is a separate piece of software for Minecraft that depends on this software
 to function and cannot function as an individual mod. This does not include ports of this software, or similar software
 that intends to replicate the features of this mod, to other Minecraft mod loaders, game versions, or platforms.
