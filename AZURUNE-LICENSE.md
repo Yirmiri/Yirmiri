@@ -1,12 +1,13 @@
-## All Rights Reserved
-Copyright (c) 2025 Azurune
-
-## For Non "dependant" cases
+## All Rights Reserved (For Non "dependant" cases)
 *See definition below for more details...*
+
+Copyright (c) 2025 Azurune
 
 
 
 ## MIT License (Exclusively for a "dependent")
+*See definition below for more details...*
+
 Copyright (c) 2025 Azurune
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
